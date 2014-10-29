@@ -1,0 +1,40 @@
+D:\SignalRPractice\SignalRPractice\bin\SignalRPractice.dll.config
+D:\SignalRPractice\SignalRPractice\bin\SignalRPractice.dll
+D:\SignalRPractice\SignalRPractice\bin\SignalRPractice.pdb
+D:\SignalRPractice\SignalRPractice\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\SignalRPractice\SignalRPractice\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\SignalRPractice\SignalRPractice\bin\Microsoft.Owin.dll
+D:\SignalRPractice\SignalRPractice\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\SignalRPractice\SignalRPractice\bin\Microsoft.Owin.Security.dll
+D:\SignalRPractice\SignalRPractice\bin\Microsoft.Web.Infrastructure.dll
+D:\SignalRPractice\SignalRPractice\bin\Newtonsoft.Json.dll
+D:\SignalRPractice\SignalRPractice\bin\Owin.dll
+D:\SignalRPractice\SignalRPractice\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\SignalRPractice\SignalRPractice\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\SignalRPractice\SignalRPractice\bin\Microsoft.Owin.xml
+D:\SignalRPractice\SignalRPractice\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\SignalRPractice\SignalRPractice\bin\Microsoft.Owin.Security.xml
+D:\SignalRPractice\SignalRPractice\bin\Newtonsoft.Json.xml
+D:\SignalRPractice\SignalRPractice\obj\Debug\SignalRPractice.dll
+D:\SignalRPractice\SignalRPractice\obj\Debug\SignalRPractice.pdb
+D:\SignalRPractice\SignalRPractice\obj\Debug\SignalRPractice.csprojResolveAssemblyReference.cache
+E:\GoogleDrive\Kim Technology\SignalR\SignalRPractice\SignalRPractice\bin\SignalRPractice.dll.config
+E:\GoogleDrive\Kim Technology\SignalR\SignalRPractice\SignalRPractice\bin\SignalRPractice.dll
+E:\GoogleDrive\Kim Technology\SignalR\SignalRPractice\SignalRPractice\bin\SignalRPractice.pdb
+E:\GoogleDrive\Kim Technology\SignalR\SignalRPractice\SignalRPractice\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\GoogleDrive\Kim Technology\SignalR\SignalRPractice\SignalRPractice\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\GoogleDrive\Kim Technology\SignalR\SignalRPractice\SignalRPractice\bin\Microsoft.Owin.dll
+E:\GoogleDrive\Kim Technology\SignalR\SignalRPractice\SignalRPractice\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\GoogleDrive\Kim Technology\SignalR\SignalRPractice\SignalRPractice\bin\Microsoft.Owin.Security.dll
+E:\GoogleDrive\Kim Technology\SignalR\SignalRPractice\SignalRPractice\bin\Microsoft.Web.Infrastructure.dll
+E:\GoogleDrive\Kim Technology\SignalR\SignalRPractice\SignalRPractice\bin\Newtonsoft.Json.dll
+E:\GoogleDrive\Kim Technology\SignalR\SignalRPractice\SignalRPractice\bin\Owin.dll
+E:\GoogleDrive\Kim Technology\SignalR\SignalRPractice\SignalRPractice\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\GoogleDrive\Kim Technology\SignalR\SignalRPractice\SignalRPractice\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\GoogleDrive\Kim Technology\SignalR\SignalRPractice\SignalRPractice\bin\Microsoft.Owin.xml
+E:\GoogleDrive\Kim Technology\SignalR\SignalRPractice\SignalRPractice\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\GoogleDrive\Kim Technology\SignalR\SignalRPractice\SignalRPractice\bin\Microsoft.Owin.Security.xml
+E:\GoogleDrive\Kim Technology\SignalR\SignalRPractice\SignalRPractice\bin\Newtonsoft.Json.xml
+E:\GoogleDrive\Kim Technology\SignalR\SignalRPractice\SignalRPractice\obj\Debug\SignalRPractice.csprojResolveAssemblyReference.cache
+E:\GoogleDrive\Kim Technology\SignalR\SignalRPractice\SignalRPractice\obj\Debug\SignalRPractice.dll
+E:\GoogleDrive\Kim Technology\SignalR\SignalRPractice\SignalRPractice\obj\Debug\SignalRPractice.pdb
